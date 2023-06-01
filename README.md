@@ -37,3 +37,8 @@ Screenshots -
 <img width="1448" alt="image" src="https://github.com/Haneet-Arya/sentimental_analysis/assets/76744982/81ae3e2f-edb0-4094-affd-68851a148ddd">
 <img width="1448" alt="image" src="https://github.com/Haneet-Arya/sentimental_analysis/assets/76744982/35ee2e29-8196-4415-b491-4b5bfde6ac6a">
 <img width="1448" alt="image" src="https://github.com/Haneet-Arya/sentimental_analysis/assets/76744982/42de614e-efbc-46a5-8cd6-93a5d2424683">
+
+<p align="center">Contributors -</br> 
+<a href="https://github.com/Haneet-Arya">Haneet Arya (me)</a></br>
+<a href="https://github.com/HarshS1611">Harsh Singh</a></br>
+<a href="">Aditya Sharma</a></p>
