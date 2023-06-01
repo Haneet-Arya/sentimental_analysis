@@ -34,8 +34,6 @@ P.S. - Use version number after Python or Pip is above command if you are using 
 Dataset <a href = "https://www.kaggle.com/datasets/kabirnagpal/flipkart-customer-review-and-rating">Link</a>
 
 Screenshots - 
-<img width="1448" alt="image" src="https://github.com/Haneet-Arya/sentimental_analysis/assets/76744982/9e85e6a4-a1f7-409b-88c0-d7226269551e">
-<img width="1448" alt="image" src="https://github.com/Haneet-Arya/sentimental_analysis/assets/76744982/7cc5cf12-a623-4349-829e-507e15e14878">
-<img width="1448" alt="image" src="https://github.com/Haneet-Arya/sentimental_analysis/assets/76744982/21125f57-757e-4528-be03-3fc179cc1230">
-
-
+<img width="1448" alt="image" src="https://github.com/Haneet-Arya/sentimental_analysis/assets/76744982/81ae3e2f-edb0-4094-affd-68851a148ddd">
+<img width="1448" alt="image" src="https://github.com/Haneet-Arya/sentimental_analysis/assets/76744982/35ee2e29-8196-4415-b491-4b5bfde6ac6a">
+<img width="1448" alt="image" src="https://github.com/Haneet-Arya/sentimental_analysis/assets/76744982/42de614e-efbc-46a5-8cd6-93a5d2424683">
